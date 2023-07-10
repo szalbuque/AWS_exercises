@@ -4,7 +4,7 @@
 # OBJETIVO
 Demonstrar, através de um relatório, conforme modelo abaixo, as possibilidades de redução de custos da empresa farmacêutica Abstergo Industries com a implementação de ferramentas da AWS.
 
-# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# MODELO DE RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: [data de início do projeto]
 Empresa: Abstergo Industries 
