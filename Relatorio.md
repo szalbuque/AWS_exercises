@@ -13,9 +13,10 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 <h2>Etapa 1: Implantação do AWS Elastic Disaster Recovery<sup>1</sup></h2>
 
-* Minimiza o tempo de indisponibilidade e a perda de dados através de uma recuperação confiável de aplicações on-premises (ou em nuvem), usando armazenamento econômico, recursos computacionais mínimos e recuperação no caso de um evento de desastre.
+* Minimiza o tempo de indisponibilidade e a perda de dados através de uma recuperação confiável de aplicações hospedadas nos equipamentos do datacenter da empresa (ou em nuvem), usando armazenamento econômico, recursos computacionais mínimos e recuperação no caso de um evento de desastre.
 * Reduz do custo de recuperação de desastres com a utilização do serviço AWS Elastic Disaster Recovery com alocação de recursos de rede da Amazon VPC e de recursos computacionais da Amazon EC2.
-  * Antes de realizar a migração dos recursos on-premises para a nuvem, é necessário garantir que as aplicações da empresa estejam disponíveis para atender aos pedidos dos compradorews.
+  * Antes de realizar a migração dos recursos on-premises para a nuvem, é necessário garantir que as aplicações da empresa estejam disponíveis para atender aos pedidos dos compradores.
+  * O serviço AWS Elastic Disaster Recovery possibilita garantir um tempo aceitável de recuperação de desastres, com segurança, sem que seja necessário investir em novos equipamentos e softwares para o datacenter da empresa.
 
 <h2>Etapa 2:</h2> 
 - [Nome da ferramenta]
