@@ -44,18 +44,25 @@ Além disso, possibilita a automatização do planejamento da otimização dos r
 
 
 <h1>Conclusão</h1>
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução dos custos de TCO com o aumento da escalabilidade dos seus recursos computacionais, frente ao incremento das operações de venda, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução dos custos de TCO com o aumento da escalabilidade dos seus recursos computacionais, frente ao incremento das operações de venda, o que aumentará a eficiência e a produtividade da empresa. <br>
+Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.<br>
+Após a migração e o controle dos custos, a empresa terá recursos humanos liberados para investir na inovação dos seus processos e poderá estudar a utilização de outros serviços da AWS que auxiliem nessa evolução, tais como AWS IoT (internet das coisas) e as ferramentas de inteligência artificial.<br><br>
 
 <h1>Fontes</h1>
 
-<sup>1</sup> https://aws.amazon.com/disaster-recovery/
-<sup>2</sup> https://aws.amazon.com/pt/application-migration-service/
-<sup>3</sup> https://aws.amazon.com/pt/cloudwatch/
-<sup>4</sup> https://aws.amazon.com/pt/aws-cost-management/aws-cost-and-usage-reporting/
+<sup>1</sup> https://aws.amazon.com/disaster-recovery/<br>
+<sup>2</sup> https://aws.amazon.com/pt/application-migration-service/<br>
+<sup>3</sup> https://aws.amazon.com/pt/cloudwatch/<br>
+<sup>4</sup> https://aws.amazon.com/pt/aws-cost-management/aws-cost-and-usage-reporting/<br>
+
 
 <h1>Anexos</h1>
 
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+Gerenciamento financeiro na nuvem com AWS: https://aws.amazon.com/pt/aws-cost-management/?pg=ln&sec=hs<br>
+Arista Group Migrates to AWS To Lower IT Costs: https://aws.amazon.com/pt/solutions/case-studies/arista-group-case-study/?pg=ln&sec=c<br>
+Plataforma digital Lynx, da Carrier, desenvolvida em colaboração com a AWS, aplica tecnologia IoT e aprendizado de máquina para conectar a cadeia fria na nuvem, automatizar processos e oferecer insights em tempo real durante toda a jornada da carga: https://aws.amazon.com/pt/campaigns/carrier/
+
+
 
 Assinatura do Responsável pelo Projeto:
 
